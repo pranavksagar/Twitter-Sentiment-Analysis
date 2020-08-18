@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis
 
-1) The application uses Twitter API to scrape twwets of user specified twitter accounts to perform sentiment analysis on them
+1) The application uses Twitter API to scrape tweets of user specified twitter accounts to perform sentiment analysis on them
 
 2) Sentiment analysis is done in three categories: positive sentiment, negative sentiment and neutral
 
